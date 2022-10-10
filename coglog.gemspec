@@ -1,12 +1,12 @@
 Gem::Specification.new do |spec|
-  spec.name = "mlog"
+  spec.name = "coglog"
   spec.version = File.read("VERSION").strip
   spec.authors = ["Francesco Belladonna"]
   spec.email = ["francesco@fc5.me"]
 
   spec.summary = "Structured and unstructured logger with output filtering"
   spec.description = "Structured and unstructured logger with output filtering"
-  spec.homepage = "https://github.com/Fire-Dragon-DoL/mlog"
+  spec.homepage = "https://github.com/Fire-Dragon-DoL/coglog"
   spec.required_ruby_version = ">= 2.7.0"
 
   # spec.metadata["allowed_push_host"] = "TODO: Set to your gem server 'https://example.com'"

@@ -1,4 +1,4 @@
-module Mlog
+module Coglog
   module Tag
     class Set
       # @param tags [<String>] array of tags

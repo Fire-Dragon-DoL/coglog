@@ -1,9 +1,9 @@
-require_relative "mlog/version"
+require_relative "coglog/version"
 
 require "set"
 
 require_relative "tag/set"
 
-module Mlog
+module Coglog
   class Error < StandardError; end
 end

@@ -1,6 +1,6 @@
-# Mlog
+# Coglog
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/mlog`. To experiment with that code, run `bin/console` for an interactive prompt.
+Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/coglog`. To experiment with that code, run `bin/console` for an interactive prompt.
 
 TODO: Delete this and the text above, and describe your gem
 
@@ -8,11 +8,11 @@ TODO: Delete this and the text above, and describe your gem
 
 Install the gem and add to the application's Gemfile by executing:
 
-    $ bundle add mlog
+    $ bundle add coglog
 
 If bundler is not being used to manage dependencies, install the gem by executing:
 
-    $ gem install mlog
+    $ gem install coglog
 
 ## Usage
 
@@ -26,4 +26,4 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/Fire-Dragon-DoL/mlog.
+Bug reports and pull requests are welcome on GitHub at https://github.com/Fire-Dragon-DoL/coglog.
